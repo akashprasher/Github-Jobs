@@ -19,7 +19,7 @@ function Footer({ dark }) {
                 className="hover:text-blue-400"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/chaharshivam/Github-Jobs"
+                href="https://github.com/akashprasher/Github-Jobs"
               >
                 Contribute
               </a>
@@ -29,20 +29,20 @@ function Footer({ dark }) {
                 className="hover:text-blue-400"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/chaharshivam/Github-Jobs/issues"
+                href="https://github.com/akashprasher/Github-Jobs/issues"
               >
                 Report a bug
               </a>
             </li>
             <li>
               <GitHubButton
-                href="https://github.com/chaharshivam/Github-Jobs"
+                href="https://github.com/akashprasher/Github-Jobs"
                 data-color-scheme={`no-preference: light; light: ${
                   dark ? "dark" : "light"
                 }; dark: dark;`}
                 data-icon="octicon-star"
                 data-show-count="true"
-                aria-label="Star chaharshivam/Github-Jobs on GitHub"
+                aria-label="Star/akashprasher/Github-Jobs on GitHub"
               >
                 Star
               </GitHubButton>
@@ -62,10 +62,10 @@ function Footer({ dark }) {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://twitter.com/shahr_96"
+            href="https://twitter.com/akashprashar"
             className={`${dark ? "text-blue-400" : "text-blue-600"} italic`}
           >
-            Shivam Chahar
+            Sumit Chahar | Akash Prasher | Juma Ramadhani Sinare
           </a>
         </p>
       </section>
